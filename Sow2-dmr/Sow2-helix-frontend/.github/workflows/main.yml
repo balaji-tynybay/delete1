@@ -1,0 +1,22 @@
+name: Deploy on push
+on:
+  push:
+    branches:
+      - helix-frontend
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install SSH Key
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST_IP }}
+          username: ${{ secrets.USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.PORT }}
+          script: |
+            cd /home/helixadmin/Sow2
+            git checkout — *
+            git checkout helix-frontend
+            git pull origin helix-frontend
+      

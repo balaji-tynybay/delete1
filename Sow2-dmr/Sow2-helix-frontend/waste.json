@@ -1,0 +1,20 @@
+
+{
+  "limit":{
+  "min":{"value":10,"comparisonOperator":">"},
+  "max":{"value":10,"comparisonOperator":">"}},
+  "_id":"647599eaf4c339fe3698ae0a",
+  "graph":"htGrid",
+  "__v":0,
+  "createdAt":"2023-05-20T06:38:33.281Z",
+  "date":"Sat Jun 03 2023 20:50:17 GMT+0530 (India Standard Time)",
+  "exceedTimes":null,
+  "interval":null,
+  "subId":"66f799d4482f445e81f904e9fa2e271c",
+  "toggle":true,
+  "updatedAt":"2023-06-03T15:20:17.897Z",
+  "filter":"Week"
+}
+
+
+

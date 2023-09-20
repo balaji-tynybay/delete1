@@ -1,0 +1,656 @@
+.dashboard-container{
+    overflow-x: scroll;
+   
+    
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+.dmr-graphs{
+width: 100%;
+}
+
+.substation-heading {
+  text-align: left;
+  font: normal normal 600 16px/20px Suisse Intl;
+  letter-spacing: 0.4px;
+  color: #000000de;
+  opacity: 1;
+  margin-top: 14px;
+  /* margin-left: 30px; */
+  margin-right: 20px;
+}
+
+.pieDonutChart {
+  height: 300px;
+  width: 350px;
+  border-top: 1px solid #efefef;
+}
+.visitor-summary {
+  margin-left: 20px;
+  text-align: left;
+  font: normal normal 600 20px/24px Suisse Intl;
+  letter-spacing: 0.4px;
+  color: #000000de;
+  text-transform: capitalize;
+  opacity: 1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.pieDonutChart-container{
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  
+    margin-left: 30px;
+padding-top: 2px;
+
+}
+
+.visitor-container{
+  display: flex;
+  margin-right: 30px;
+
+
+}
+.table-visitor-details-header {
+  text-align: left;
+  font: normal normal 600 20px/24px Suisse Intl;
+  letter-spacing: 0.4px;
+  color: #000000de;
+  text-transform: capitalize;
+  opacity: 1;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.table-visitor-details {
+  margin-left: 30px;
+  padding-bottom: 40px;
+  width: 100%;
+  box-shadow: 0px 3px 6px #00000029;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+
+.donutCharts-container {
+  display: flex;
+ 
+  margin-top: 40px;
+  justify-content: space-between;
+  margin-right: 30px;
+
+}
+.consumption-chiller-container{
+    display: flex; 
+    width: 100%;
+    margin-left: 30px;
+}
+
+
+
+.Dg-unit{
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 30px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+
+.hr-line{
+  
+  opacity: 0.2;
+}
+
+.Dg-run{
+  width: 50%;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+.Chiller-approach{
+  width: 50%;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+
+.Chiller-EB-Energy-Consumption{
+  width: 50%;
+  margin-right: 30px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+
+
+
+.energy-grid-consumption-container {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.hsd-yard-consumption-container {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  /* width: 100%; */
+}
+.hsd-yard-consumption-header {
+  text-align: left;
+  font: normal normal 600 20px/24px Suisse Intl;
+  letter-spacing: 0.4px;
+  color: #000000de;
+  opacity: 1;
+  margin: 20px;
+  padding-top: 14px;
+}
+.export-filter-btn {
+    background: #ffffff 0% 0% no-repeat padding-box;
+  }
+  
+  .insights-box {
+    overflow-y: scroll;
+    height: 90vh;
+  }
+  .insights-box::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  .insights-filter-box {
+    display: flex;
+    align-items: center;
+  }
+  
+  .insights-filters-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 0px 10px;
+    
+  }
+  
+  .view-filter-box {
+    border-radius: 8px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    list-style-type: none;
+    width: 150px;
+    padding: 8px;
+    position: absolute;
+    margin-top: 6px;
+  }
+  
+  .customer-review-text {
+    font: normal normal normal 14px Suisse Intl;
+    letter-spacing: 0px;
+    color: #1a1818de;
+    text-align: center;
+    font-weight: 500;
+  }
+  
+  .cards-box {
+    margin-top: 20px;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 20px;
+  }
+  
+  .ticket-percentage {
+    font-size: 12px;
+  }
+  
+  .graphs-box {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .graph-box {
+    border: 1px solid #efefef;
+    width: 59%;
+    background-color: #ffffff;
+  }
+  
+  .graph-box-expand {
+    /* border: 1px solid #efefef; */
+    width: 60%;
+    background-color: #ffffff;
+  }
+  
+  .circle-graph-box {
+    border: 1px solid #efefef;
+    background-color: #ffffff;
+  }
+  
+  .circle-graph-heading {
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0.4px;
+    color: #000000de;
+    padding: 10px;
+    border-bottom: 1px solid #efefef;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  /* .avg-response-graph-box {
+  } */
+  
+  .speedo-meter-box {
+    border: 1px solid #efefef;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .speedo-meter-box-inner {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: auto;
+  }
+  
+  .customer-satis-text {
+    font: normal normal normal 17px Suisse Intl;
+    letter-spacing: 0.44px;
+    color: #000000de;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .speedo-meter {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .speedo-meter > div > svg {
+    height: 200px !important;
+  }
+  
+  .speedo-meter-dots-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .speedo-dot {
+    margin-right: 5px;
+    font-size: 25px;
+  }
+  
+  .speedo-text {
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0.4px;
+    color: #000000de;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    text-align: left;
+  }
+  
+  .comparison-filters-box {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .filter-sheet {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 2px solid #0000000e;
+  }
+  
+  .comparison-graph {
+    padding: 15px;
+    height: 80vh;
+  }
+  
+  .customer-percentage-box {
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .percentage-box {
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .card-view-filter-btn {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    outline: none;
+    border: 1px solid #0000001f;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 40px;
+    width: 150px;
+    margin-right: 10px;
+    font: normal normal normal 13px Suisse Intl;
+    letter-spacing: 0px;
+    color: #000000;
+  }
+  
+  .filter-btn {
+    background-color: #ffffff;
+    outline: none;
+    border: 1px solid #0000001f;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 40px;
+    width: 80px;
+    margin-right: 10px;
+    padding: 10px;
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: capitalize;
+  }
+  
+  .view-filter-item {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+  }
+  
+  .card-view-text {
+    font: normal normal normal 13px Suisse Intl;
+    letter-spacing: 0px;
+    color: #000000;
+    margin-left: 8px;
+    cursor: pointer;
+  }
+  
+  .card-view-text-active {
+    color: #0b694c;
+  }
+  
+  .filter-drawer-box {
+    width: 50vw;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    position: relative;
+    height: 100vh;
+    overflow: scroll;
+  }
+  
+  .filter-drawer-box::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  .filter-text-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid #0000001f;
+  }
+  
+  .filter-by-text {
+    font: normal normal normal 23px Suisse Intl;
+    letter-spacing: 0px;
+    color: #101827;
+  }
+  
+  .btn {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+  }
+  
+  .select-by-date-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .select-by-companies-box {
+    padding: 1% 5% 1% 1%;
+    background: #fafafa 0% 0% no-repeat padding-box;
+    width: 100%;
+  }
+  
+  .comparison-sheet-box {
+    border: 1px solid #efefef;
+    width: 100%;
+    background-color: #ffffff;
+  }
+  
+  .comparison-text {
+    font: normal normal normal 17px Suisse Intl;
+    letter-spacing: 0.44px;
+    color: #000000de;
+    font-weight: 600;
+  }
+  
+  .cancel-btn {
+    width: 124px;
+    height: 50px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #00000033;
+    border-radius: 4px;
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0px;
+    color: #000000de;
+    outline: none;
+    margin-right: 15px;
+    cursor: pointer;
+  }
+  
+  .apply-btn {
+    width: 124px;
+    height: 50px;
+    background: #0b694c 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0px;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .cancel-apply-box {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 10px;
+    background-color: #ffffff;
+    position: sticky;
+    bottom: 0;
+  }
+  
+  .export-filter-btn {
+    background: #ffffff 0% 0% no-repeat padding-box;
+  }
+  
+  .export-main-box {
+    position: relative;
+  }
+  
+  .card-view-main-box {
+    position: relative;
+  }
+  
+  .export-filter-box {
+    border-radius: 8px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    list-style-type: none;
+    width: 128px;
+    padding: 8px;
+    position: absolute;
+    margin-top: 6px;
+    z-index: 2;
+  }
+  
+  .url-popup-box {
+    width: 650px;
+    height: 338px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .url-popup-head-text {
+    font: normal normal normal 25px Suisse Intl;
+    letter-spacing: 0px;
+    color: #101827;
+  }
+  
+  .url-popup-page-url-text {
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0px;
+    color: #101827;
+  }
+  
+  .url-box {
+    width: 100%;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #dbdbdb29;
+    border: 1px solid #0000001f;
+    border-radius: 4px;
+    margin-top: 10px;
+    padding: 20px;
+  }
+  
+  .url-link-text {
+    text-decoration: underline;
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0px;
+    color: #0b694c;
+  }
+  
+  .tickets-expand-icon {
+    position: absolute;
+    right: 2%;
+    top: 30%;
+    color: transparent;
+  }
+  
+  .tickets-filter {
+    padding: 10px 20px 10px 20px;
+    border-bottom: 1px solid #efefef;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .ticket-close-icon {
+    position: absolute;
+    right: 1%;
+    top: 1%;
+  }
+  
+  .MuiPaper-root {
+    overflow-x: hidden;
+  }
+  
+  /* .MuiPaper-root::-webkit-scrollbar-thumb {
+      background: transparent;
+      border-radius: 10px;
+    }
+    
+    .MuiPaper-root:hover::-webkit-scrollbar-thumb {
+      background: #0b694c;
+    } */
+  
+  .graph-box:hover .tickets-expand-icon {
+    color: #000000;
+  }
+  
+  .circle-graph-box:hover .expand-icon {
+    color: #000000;
+  }
+  
+  .comparison-sheet-box:hover .expand-icon {
+    color: #000000;
+  }
+  
+  .speedo-meter-box:hover .expand-icon {
+    color: #000000;
+  }
+  
+  .tickets-step-filter-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  
+  .ticket-filter-active {
+    font: normal normal normal 15px Suisse Intl;
+    letter-spacing: 0.17px;
+    color: #000000de;
+    font-weight: 500;
+  }
+  
+  .ticket-filter-disable {
+    opacity: 0.3;
+  }
+  
+  .ticket-reset-btn {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #00000033;
+    height: 25px;
+    font: normal normal normal 13px Suisse Intl;
+    letter-spacing: 0px;
+    color: #000000de;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  
+  .ticket-reset-btn:hover {
+    background-color: #f5f6f7;
+  }
+  
+  .donut-graph-popup-box {
+    height: 80vh;
+    width: 90vw;
+  }
+  
+  .comparison-chart-popup {
+    width: 90vw;
+    height: 80vh;
+  }
+  
+  .tickets-chart-popup {
+    width: 90vw;
+    height: 80vh;
+  }
+.graph-analtics-container {
+ 
+display: flex;
+justify-content: space-between;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 20px;
+}
+.graph-analtics-container1 {
+  position: relative;
+  right: -81%;
+  top:3%;
+  
+}
+  .grph-analytics{
+    text-decoration: underline;
+    font: normal normal normal 14px/21px Suisse Intl;
+    letter-spacing: 0.17px;
+    color: #1A9EE0;
+    opacity: 1; 
+    font-weight: bold;
+    cursor: pointer;
+  }
+/* .grph-analytics2{
+  color: gray;
+  opacity: 0.6;
+  pointer-events: none;
+} */

@@ -1,0 +1,27 @@
+.no-button {
+font: normal normal medium 18px/22px Metropolis;
+letter-spacing: 0.63px;
+color: #00000099;
+text-transform: uppercase;
+opacity: 1;
+width: 85px;
+height: 40px;
+border: none;
+background: transparent;
+cursor: pointer;
+
+}
+.yes-button{
+    width: 85px;
+height: 40px;
+/* UI Properties */
+background: #1A9EE0 0% 0% no-repeat padding-box;
+opacity: 1;
+border:none;
+color: #ffffff;
+cursor: pointer;
+}
+.yes-no-container{
+    display: flex;
+    justify-content: end;
+}

@@ -1,0 +1,12 @@
+
+{
+    "realm": "washroom",
+    "auth-server-url": "http://18.141.20.175:8080/auth/",
+    "ssl-required": "none",
+    "resource": "react-app",
+    "public-client": true,
+    "confidential-port": 0
+  }
+  
+  
+  

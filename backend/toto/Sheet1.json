@@ -1,0 +1,646 @@
+[
+  {
+    "FinalReading": "456713.036",
+    "InitialReading": "327593.036",
+    "consumption": "129120",
+    "meterFactor": "120000",
+    "date": "5/1/23 0:51"
+  },
+  {
+    "FinalReading": "422480.000",
+    "InitialReading": "173646",
+    "consumption": "248834",
+    "meterFactor": "120000",
+    "date": "5/2/23 0:51"
+  },
+  {
+    "FinalReading": "541247.000",
+    "InitialReading": "391039",
+    "consumption": "150208",
+    "meterFactor": "120000",
+    "date": "5/3/23 0:51"
+  },
+  {
+    "FinalReading": "458759.000",
+    "InitialReading": "273030",
+    "consumption": "185729",
+    "meterFactor": "120000",
+    "date": "5/4/23 0:51"
+  },
+  {
+    "FinalReading": "417562.000",
+    "InitialReading": "294695",
+    "consumption": "122867",
+    "meterFactor": "120000",
+    "date": "5/5/23 0:51"
+  },
+  {
+    "FinalReading": "552523.000",
+    "InitialReading": "410984",
+    "consumption": "141539",
+    "meterFactor": "120000",
+    "date": "5/6/23 0:51"
+  },
+  {
+    "FinalReading": "456507.000",
+    "InitialReading": "340830",
+    "consumption": "115677",
+    "meterFactor": "120000",
+    "date": "5/7/23 0:51"
+  },
+  {
+    "FinalReading": "492991.000",
+    "InitialReading": "357428",
+    "consumption": "135563",
+    "meterFactor": "120000",
+    "date": "5/8/23 0:51"
+  },
+  {
+    "FinalReading": "597119.000",
+    "InitialReading": "412458",
+    "consumption": "184661",
+    "meterFactor": "120000",
+    "date": "5/9/23 0:51"
+  },
+  {
+    "FinalReading": "552942.000",
+    "InitialReading": "370200",
+    "consumption": "182742",
+    "meterFactor": "120000",
+    "date": "5/10/23 0:51"
+  },
+  {
+    "FinalReading": "498852.000",
+    "InitialReading": "311740",
+    "consumption": "187112",
+    "meterFactor": "120000",
+    "date": "5/11/23 0:51"
+  },
+  {
+    "FinalReading": "433682.000",
+    "InitialReading": "173089",
+    "consumption": "260593",
+    "meterFactor": "120000",
+    "date": "5/12/23 0:51"
+  },
+  {
+    "FinalReading": "495295.000",
+    "InitialReading": "211645",
+    "consumption": "283650",
+    "meterFactor": "120000",
+    "date": "5/13/23 0:51"
+  },
+  {
+    "FinalReading": "425151.000",
+    "InitialReading": "146676",
+    "consumption": "278475",
+    "meterFactor": "120000",
+    "date": "5/14/23 0:51"
+  },
+  {
+    "FinalReading": "584148.000",
+    "InitialReading": "370492",
+    "consumption": "213656",
+    "meterFactor": "120000",
+    "date": "5/15/23 0:51"
+  },
+  {
+    "FinalReading": "507625.000",
+    "InitialReading": "251185",
+    "consumption": "256440",
+    "meterFactor": "120000",
+    "date": "5/16/23 0:51"
+  },
+  {
+    "FinalReading": "426782.000",
+    "InitialReading": "202304",
+    "consumption": "224478",
+    "meterFactor": "120000",
+    "date": "5/17/23 0:51"
+  },
+  {
+    "FinalReading": "400392.000",
+    "InitialReading": "222519",
+    "consumption": "177873",
+    "meterFactor": "120000",
+    "date": "5/18/23 0:51"
+  },
+  {
+    "FinalReading": "517627.000",
+    "InitialReading": "413998",
+    "consumption": "103629",
+    "meterFactor": "120000",
+    "date": "5/19/23 0:51"
+  },
+  {
+    "FinalReading": "582734.000",
+    "InitialReading": "330960",
+    "consumption": "251774",
+    "meterFactor": "120000",
+    "date": "5/20/23 0:51"
+  },
+  {
+    "FinalReading": "523714.000",
+    "InitialReading": "310154",
+    "consumption": "213560",
+    "meterFactor": "120000",
+    "date": "5/21/23 0:51"
+  },
+  {
+    "FinalReading": "433471.000",
+    "InitialReading": "313924",
+    "consumption": "119547",
+    "meterFactor": "120000",
+    "date": "5/22/23 0:51"
+  },
+  {
+    "FinalReading": "449007.000",
+    "InitialReading": "157582",
+    "consumption": "291425",
+    "meterFactor": "120000",
+    "date": "5/23/23 0:51"
+  },
+  {
+    "FinalReading": "519500.000",
+    "InitialReading": "336554",
+    "consumption": "182946",
+    "meterFactor": "120000",
+    "date": "5/24/23 0:51"
+  },
+  {
+    "FinalReading": "528029.000",
+    "InitialReading": "321681",
+    "consumption": "206348",
+    "meterFactor": "120000",
+    "date": "5/25/23 0:51"
+  },
+  {
+    "FinalReading": "412182.000",
+    "InitialReading": "160384",
+    "consumption": "251798",
+    "meterFactor": "120000",
+    "date": "5/26/23 0:51"
+  },
+  {
+    "FinalReading": "511140.000",
+    "InitialReading": "326168",
+    "consumption": "184972",
+    "meterFactor": "120000",
+    "date": "5/27/23 0:51"
+  },
+  {
+    "FinalReading": "564508.000",
+    "InitialReading": "341483",
+    "consumption": "223025",
+    "meterFactor": "120000",
+    "date": "5/28/23 0:51"
+  },
+  {
+    "FinalReading": "409943.000",
+    "InitialReading": "165532",
+    "consumption": "244411",
+    "meterFactor": "120000",
+    "date": "5/29/23 0:51"
+  },
+  {
+    "FinalReading": "513041.000",
+    "InitialReading": "269898",
+    "consumption": "243143",
+    "meterFactor": "120000",
+    "date": "5/30/23 0:51"
+  },
+  {
+    "FinalReading": "583989.000",
+    "InitialReading": "387209",
+    "consumption": "196780",
+    "meterFactor": "120000",
+    "date": "5/31/23 0:51"
+  },
+  {
+    "FinalReading": "461666.000",
+    "InitialReading": "318155",
+    "consumption": "143511",
+    "meterFactor": "120000",
+    "date": "6/1/23 0:51"
+  },
+  {
+    "FinalReading": "559747.000",
+    "InitialReading": "428497",
+    "consumption": "131250",
+    "meterFactor": "120000",
+    "date": "6/2/23 0:51"
+  },
+  {
+    "FinalReading": "444725.000",
+    "InitialReading": "191092",
+    "consumption": "253633",
+    "meterFactor": "120000",
+    "date": "6/3/23 0:51"
+  },
+  {
+    "FinalReading": "588863.000",
+    "InitialReading": "399048",
+    "consumption": "189815",
+    "meterFactor": "120000",
+    "date": "6/4/23 0:51"
+  },
+  {
+    "FinalReading": "434878.000",
+    "InitialReading": "273464",
+    "consumption": "161414",
+    "meterFactor": "120000",
+    "date": "6/5/23 0:51"
+  },
+  {
+    "FinalReading": "535538.000",
+    "InitialReading": "296002",
+    "consumption": "239536",
+    "meterFactor": "120000",
+    "date": "6/6/23 0:51"
+  },
+  {
+    "FinalReading": "560650.000",
+    "InitialReading": "263955",
+    "consumption": "296695",
+    "meterFactor": "120000",
+    "date": "6/7/23 0:51"
+  },
+  {
+    "FinalReading": "535235.000",
+    "InitialReading": "258270",
+    "consumption": "276965",
+    "meterFactor": "120000",
+    "date": "6/8/23 0:51"
+  },
+  {
+    "FinalReading": "452091.000",
+    "InitialReading": "260777",
+    "consumption": "191314",
+    "meterFactor": "120000",
+    "date": "6/9/23 0:51"
+  },
+  {
+    "FinalReading": "535270.000",
+    "InitialReading": "292403",
+    "consumption": "242867",
+    "meterFactor": "120000",
+    "date": "6/10/23 0:51"
+  },
+  {
+    "FinalReading": "572388.000",
+    "InitialReading": "440833",
+    "consumption": "131555",
+    "meterFactor": "120000",
+    "date": "6/11/23 0:51"
+  },
+  {
+    "FinalReading": "535274.000",
+    "InitialReading": "322402",
+    "consumption": "212872",
+    "meterFactor": "120000",
+    "date": "6/12/23 0:51"
+  },
+  {
+    "FinalReading": "444971.000",
+    "InitialReading": "312159",
+    "consumption": "132812",
+    "meterFactor": "120000",
+    "date": "6/13/23 0:51"
+  },
+  {
+    "FinalReading": "434338.000",
+    "InitialReading": "320410",
+    "consumption": "113928",
+    "meterFactor": "120000",
+    "date": "6/14/23 0:51"
+  },
+  {
+    "FinalReading": "514190.000",
+    "InitialReading": "349164",
+    "consumption": "165026",
+    "meterFactor": "120000",
+    "date": "6/15/23 0:51"
+  },
+  {
+    "FinalReading": "494566.000",
+    "InitialReading": "307934",
+    "consumption": "186632",
+    "meterFactor": "120000",
+    "date": "6/16/23 0:51"
+  },
+  {
+    "FinalReading": "523644.000",
+    "InitialReading": "411247",
+    "consumption": "112397",
+    "meterFactor": "120000",
+    "date": "6/17/23 0:51"
+  },
+  {
+    "FinalReading": "440571.000",
+    "InitialReading": "317212",
+    "consumption": "123359",
+    "meterFactor": "120000",
+    "date": "6/18/23 0:51"
+  },
+  {
+    "FinalReading": "527440.000",
+    "InitialReading": "384224",
+    "consumption": "143216",
+    "meterFactor": "120000",
+    "date": "6/19/23 0:51"
+  },
+  {
+    "FinalReading": "414158.000",
+    "InitialReading": "223662",
+    "consumption": "190496",
+    "meterFactor": "120000",
+    "date": "6/20/23 0:51"
+  },
+  {
+    "FinalReading": "441394.000",
+    "InitialReading": "229822",
+    "consumption": "211572",
+    "meterFactor": "120000",
+    "date": "6/21/23 0:51"
+  },
+  {
+    "FinalReading": "473123.000",
+    "InitialReading": "327870",
+    "consumption": "145253",
+    "meterFactor": "120000",
+    "date": "6/22/23 0:51"
+  },
+  {
+    "FinalReading": "496539.000",
+    "InitialReading": "207780",
+    "consumption": "288759",
+    "meterFactor": "120000",
+    "date": "6/23/23 0:51"
+  },
+  {
+    "FinalReading": "482888.000",
+    "InitialReading": "271090",
+    "consumption": "211798",
+    "meterFactor": "120000",
+    "date": "6/24/23 0:51"
+  },
+  {
+    "FinalReading": "410480.000",
+    "InitialReading": "269953",
+    "consumption": "140527",
+    "meterFactor": "120000",
+    "date": "6/25/23 0:51"
+  },
+  {
+    "FinalReading": "430678.000",
+    "InitialReading": "232148",
+    "consumption": "198530",
+    "meterFactor": "120000",
+    "date": "6/26/23 0:51"
+  },
+  {
+    "FinalReading": "576158.000",
+    "InitialReading": "355643",
+    "consumption": "220515",
+    "meterFactor": "120000",
+    "date": "6/27/23 0:51"
+  },
+  {
+    "FinalReading": "496162.000",
+    "InitialReading": "222689",
+    "consumption": "273473",
+    "meterFactor": "120000",
+    "date": "6/28/23 0:51"
+  },
+  {
+    "FinalReading": "554032.000",
+    "InitialReading": "450579",
+    "consumption": "103453",
+    "meterFactor": "120000",
+    "date": "6/29/23 0:51"
+  },
+  {
+    "FinalReading": "505156.000",
+    "InitialReading": "381882",
+    "consumption": "123274",
+    "meterFactor": "120000",
+    "date": "6/30/23 0:51"
+  },
+  {
+    "FinalReading": "459327.000",
+    "InitialReading": "313980",
+    "consumption": "145347",
+    "meterFactor": "120000",
+    "date": "7/1/23 0:51"
+  },
+  {
+    "FinalReading": "508998.000",
+    "InitialReading": "305841",
+    "consumption": "203157",
+    "meterFactor": "120000",
+    "date": "7/2/23 0:51"
+  },
+  {
+    "FinalReading": "513763.000",
+    "InitialReading": "290363",
+    "consumption": "223400",
+    "meterFactor": "120000",
+    "date": "7/3/23 0:51"
+  },
+  {
+    "FinalReading": "476512.000",
+    "InitialReading": "199419",
+    "consumption": "277093",
+    "meterFactor": "120000",
+    "date": "7/4/23 0:51"
+  },
+  {
+    "FinalReading": "552967.000",
+    "InitialReading": "448789",
+    "consumption": "104178",
+    "meterFactor": "120000",
+    "date": "7/5/23 0:51"
+  },
+  {
+    "FinalReading": "452831.000",
+    "InitialReading": "226399",
+    "consumption": "226432",
+    "meterFactor": "120000",
+    "date": "7/6/23 0:51"
+  },
+  {
+    "FinalReading": "564790.000",
+    "InitialReading": "321948",
+    "consumption": "242842",
+    "meterFactor": "120000",
+    "date": "7/7/23 0:51"
+  },
+  {
+    "FinalReading": "438691.000",
+    "InitialReading": "193848",
+    "consumption": "244843",
+    "meterFactor": "120000",
+    "date": "7/8/23 0:51"
+  },
+  {
+    "FinalReading": "501473.000",
+    "InitialReading": "298741",
+    "consumption": "202732",
+    "meterFactor": "120000",
+    "date": "7/9/23 0:51"
+  },
+  {
+    "FinalReading": "592483.000",
+    "InitialReading": "411416",
+    "consumption": "181067",
+    "meterFactor": "120000",
+    "date": "7/10/23 0:51"
+  },
+  {
+    "FinalReading": "409170.000",
+    "InitialReading": "253017",
+    "consumption": "156153",
+    "meterFactor": "120000",
+    "date": "7/11/23 0:51"
+  },
+  {
+    "FinalReading": "413403.000",
+    "InitialReading": "231280",
+    "consumption": "182123",
+    "meterFactor": "120000",
+    "date": "7/12/23 0:51"
+  },
+  {
+    "FinalReading": "402872.000",
+    "InitialReading": "263003",
+    "consumption": "139869",
+    "meterFactor": "120000",
+    "date": "7/13/23 0:51"
+  },
+  {
+    "FinalReading": "400491.000",
+    "InitialReading": "197232",
+    "consumption": "203259",
+    "meterFactor": "120000",
+    "date": "7/14/23 0:51"
+  },
+  {
+    "FinalReading": "434150.000",
+    "InitialReading": "183760",
+    "consumption": "250390",
+    "meterFactor": "120000",
+    "date": "7/15/23 0:51"
+  },
+  {
+    "FinalReading": "531111.000",
+    "InitialReading": "370109",
+    "consumption": "161002",
+    "meterFactor": "120000",
+    "date": "7/16/23 0:51"
+  },
+  {
+    "FinalReading": "478693.000",
+    "InitialReading": "377275",
+    "consumption": "101418",
+    "meterFactor": "120000",
+    "date": "7/17/23 0:51"
+  },
+  {
+    "FinalReading": "577724.000",
+    "InitialReading": "437045",
+    "consumption": "140679",
+    "meterFactor": "120000",
+    "date": "7/18/23 0:51"
+  },
+  {
+    "FinalReading": "472975.000",
+    "InitialReading": "270357",
+    "consumption": "202618",
+    "meterFactor": "120000",
+    "date": "7/19/23 0:51"
+  },
+  {
+    "FinalReading": "497776.000",
+    "InitialReading": "235327",
+    "consumption": "262449",
+    "meterFactor": "120000",
+    "date": "7/20/23 0:51"
+  },
+  {
+    "FinalReading": "447477.000",
+    "InitialReading": "327182",
+    "consumption": "120295",
+    "meterFactor": "120000",
+    "date": "7/21/23 0:51"
+  },
+  {
+    "FinalReading": "513265.000",
+    "InitialReading": "353754",
+    "consumption": "159511",
+    "meterFactor": "120000",
+    "date": "7/22/23 0:51"
+  },
+  {
+    "FinalReading": "402948.000",
+    "InitialReading": "166674",
+    "consumption": "236274",
+    "meterFactor": "120000",
+    "date": "7/23/23 0:51"
+  },
+  {
+    "FinalReading": "468530.000",
+    "InitialReading": "337253",
+    "consumption": "131277",
+    "meterFactor": "120000",
+    "date": "7/24/23 0:51"
+  },
+  {
+    "FinalReading": "528693.000",
+    "InitialReading": "289674",
+    "consumption": "239019",
+    "meterFactor": "120000",
+    "date": "7/25/23 0:51"
+  },
+  {
+    "FinalReading": "516565.000",
+    "InitialReading": "271421",
+    "consumption": "245144",
+    "meterFactor": "120000",
+    "date": "7/26/23 0:51"
+  },
+  {
+    "FinalReading": "474501.000",
+    "InitialReading": "261780",
+    "consumption": "212721",
+    "meterFactor": "120000",
+    "date": "7/27/23 0:51"
+  },
+  {
+    "FinalReading": "560246.000",
+    "InitialReading": "339895",
+    "consumption": "220351",
+    "meterFactor": "120000",
+    "date": "7/28/23 0:51"
+  },
+  {
+    "FinalReading": "530754.000",
+    "InitialReading": "400001",
+    "consumption": "130753",
+    "meterFactor": "120000",
+    "date": "7/29/23 0:51"
+  },
+  {
+    "FinalReading": "565253.000",
+    "InitialReading": "344881",
+    "consumption": "220372",
+    "meterFactor": "120000",
+    "date": "7/30/23 0:51"
+  },
+  {
+    "FinalReading": "522608.000",
+    "InitialReading": "306114",
+    "consumption": "216494",
+    "meterFactor": "120000",
+    "date": "7/31/23 0:51"
+  }
+]
