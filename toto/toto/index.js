@@ -22,7 +22,7 @@ mongoose
     });
   })
   .catch((err) => console.error("Error connecting to MongoDB:", err));
-app.use(cors({ origin: "http://13.213.201.186:3000" }));
+app.use(cors({ origin: "http://localhost:3000" }));
 
 app.use("/api/login", authRoutes);
 app.use("/api/sensor_data/", dmr);

@@ -109,8 +109,8 @@ const HDGridConsumptionTabs = (props: any) => {
   const [monthlyData, setMonthlyData] = useState({});
 
   const urls = [
-    `http://13.213.201.186:8081/api/sensor_data/pocHelix`,
-    `http://13.213.201.186:8081/api/sensor_data/pocHelix?analytics=prediction`,
+    `http://localhost:8081/api/sensor_data/pocHelix`,
+    `http://localhost:8081/api/sensor_data/pocHelix?analytics=prediction`,
   ];
   const { data, isLoading, error } = useMultipleUrlData(urls);
   console.log("handle", data);
